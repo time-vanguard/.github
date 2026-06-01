@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:0ea5e9,70:22c55e,100:0f172a&text=Team%20Vanguard&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Time%20de%20Desenvolvimento%20do%20Grupo%20Excel%C3%AAncia&descAlignY=58" alt="Team Vanguard banner" />
 
 <p align="center">
-  <img src="./grupo-excelencia.png" alt="Grupo Excelência" height="92" />
+  <img src="./Grupo%20Excel%C3%AAncia%20sem%20fundo.png" alt="Grupo Excelência" height="92" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./Logo%20Alpha%20e%20Omega.png" alt="Alpha e Omega" height="92" />
 </p>
